@@ -20,7 +20,7 @@ const Work = () => {
       title: "My Portfolio",
       desc: "My Portfolio — A personal website showcasing my skills, projects, and journey as a developer with smooth animations and dark/light mode.",
       img: "./Portfolio.png",
-      live: "https://hasanxolmurodov.github.io/My-Portfolio/",
+      live: "https://xolmurodovs-portfolio.vercel.app/",
       git: "https://github.com/hasanxolmurodov/My-Portfolio",
       tech: ["React", "Framer Motion", "Tailwind", "Next.js"],
     },
