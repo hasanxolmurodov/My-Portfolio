@@ -1,4 +1,4 @@
-# 🌐 Aadarsh Portfolio Website  
+# 🌐 Hasan Portfolio Website  
 
 A clean, modern, and fully responsive **Portfolio Website** built using **React.js, Tailwind CSS, Framer Motion, and Lucide React** — complete with dark/light mode, animations, and smooth page transitions.
 
@@ -37,8 +37,8 @@ A clean, modern, and fully responsive **Portfolio Website** built using **React.
 | 🏠 **Home** | Introduction section with profile image |
 | ⚙️ **Skills** | Lists all skills with animated percentage bars |
 | 💼 **Work** | Displays all projects with links to live sites & GitHub repos |
-| 👨‍💻 **About** | Aadarsh’s journey and background |
-| 📬 **Connect** | Contact info + YouTube channel link |
+| 👨‍💻 **About** | HAsan’s journey and background |
+| 📬 **Connect** | Contact info |
 
 ---
 
