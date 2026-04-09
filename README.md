@@ -5,7 +5,7 @@ A clean, modern, and fully responsive **Portfolio Website** built using **React.
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Portfolio] ([https://xolmurodovs-portfolio.vercel.app/])
+🔗 https://xolmurodovs-portfolio.vercel.app/
 
 ---
 
